@@ -7,7 +7,7 @@ int floor(float number){
     }
     else{
         floorNo = number;  //-2.14 ==> -2
-        floorNo = floorNo-1;  //-2.
+        floorNo = floorNo-1;  //-2
     }
     return floorNo;
 }
